@@ -4,10 +4,9 @@
 
 # Resumo do projeto
 
+Este projeto será fundamental para a criação do código Terraform que configurará nossa aplicação. Embora, na etapa atual do projeto, ainda não tenha sido necessário sua utilização, estamos planejando empregar o Terraform na próxima fase.
 
-Ao longo do desenvolvimento, estaremos fazendo entregas incrementais e criando releases no GIT para acompanhar o progresso do projeto. Esperamos que este trabalho demonstre nosso conhecimento teórico e prático adquirido durante a pós-graduação, além de servir como um exemplo de aplicação das melhores práticas de arquitetura em projetos de software.
-
-Sinta-se à vontade para entrar em contato conosco se tiver alguma dúvida ou sugestão. Agradecemos pelo interesse em nosso projeto!
+O Terraform desempenhará um papel crucial na infraestrutura e na implantação de nossa aplicação, facilitando a automação de provisionamento de recursos na nuvem e a configuração de ambientes. Este projeto está sendo preparado como parte de nossa estratégia para garantir uma infraestrutura ágil e escalável.
 
 > :construction: Projeto em construção :construction:
 
@@ -16,8 +15,6 @@ License: [MIT](License.txt)
 # ✔️ Tecnologias utilizadas
 
 - ``Terraform``
-- TODO -> Descrever tecnologidas
-
 
 # Autores
 
